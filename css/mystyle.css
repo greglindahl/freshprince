@@ -1,0 +1,13 @@
+body {
+	background-color: lightgrey;
+}
+
+h1 {
+	color: red;
+	font-family: "Times New Roman", Helvetica, Georgia, Serif;
+	text-align: center;
+}
+
+p {
+	font-family: Impact;
+}
